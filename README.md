@@ -29,3 +29,4 @@ Migrating projects to a GitLab instance
     FogBugz
     Gitea
     SVN
+Switch to embedded Linux: Use solution have open-source and proprietary tools was provided and supported by vendors like: MontaVista, TimeSys,…
