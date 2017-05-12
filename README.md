@@ -19,3 +19,13 @@ git remote add origin git@gitlab.rvc.renesas.com:nghianguyen/calc.git
 git add .
 git commit
 git push -u origin master
+https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+
+Migrating projects to a GitLab instance
+
+    Bitbucket
+    GitHub
+    GitLab.com
+    FogBugz
+    Gitea
+    SVN
