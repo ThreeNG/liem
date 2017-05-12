@@ -30,3 +30,4 @@ Migrating projects to a GitLab instance
     Gitea
     SVN
 Switch to embedded Linux: Use solution have open-source and proprietary tools was provided and supported by vendors like: MontaVista, TimeSys,…
+https://backlogtool.com/git-guide/vn/ )
